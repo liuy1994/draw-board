@@ -1,0 +1,19 @@
+{
+  "name": "draw-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuy1994/draw-board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuy1994/draw-board/issues"
+  },
+  "homepage": "https://github.com/liuy1994/draw-board#readme"
+}
